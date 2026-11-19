@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 This Github profile is just the beginning of many more projects and explorations to come through.
-For now I've created a vercel app Project Zenith for a hackathon called AstralWeb
-Along with exploraing the analysis of a personal interest hand gesture chord synthesizer 
-I have also been regularly improving my Java skillset by submitting assignments and practising question for College classes
+For now I've created a vercel app Project Zenith for a hackathon called AstralWeb 🌑
+Along with exploring the analysis of a personal interest; hand gesture chord synthesizer 🎵
+I have also been regularly improving my Java skillset by submitting assignments and practising question for College classes 👩🏼‍💻
 
 _Hoping to collaborate with anyone with the same curiosity and interest!!!_
 <!--
